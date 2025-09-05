@@ -1,5 +1,13 @@
 # Kenneth You's First CS193 Homework
 
+## fav things about cs193
+
+- Coding is fun!
+- I get to learn github more.
+- I get to use a different IDE than android studio (ew).
+- The number 193 is the only prime number p such that 2^k mod(4p^2+1) = 1 has no solution for k!
+- Fewer lectures!
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
