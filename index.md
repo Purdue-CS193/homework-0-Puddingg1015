@@ -7,6 +7,7 @@
 - I get to use a different IDE than android studio (ew).
 - The number 193 is the only prime number p such that 2^k mod(4p^2+1) = 1 has no solution for k!
 - Fewer lectures!
+- I like this theme.
 
 ## Welcome to GitHub Pages
 
